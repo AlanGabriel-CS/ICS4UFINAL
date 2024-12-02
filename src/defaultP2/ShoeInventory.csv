@@ -1,0 +1,33 @@
+#Type,Brand,Size,Price,Qty,Special(goreTex,Weight,traction)
+Walking,Brooks,8,49.95,2,true
+Walking,Brooks,9,49.95,4,true
+Walking,Brooks,10,49.95,6,true
+Walking,Brooks,11,49.95,1,true
+Walking,Skechers,7,39.95,1,false
+Walking,Skechers,8,39.95,2,false
+Walking,Skechers,9,39.95,5,false
+Walking,Skechers,10,39.95,7,false
+Walking,Skechers,11,39.95,9,false
+Walking,Skechers,12,39.95,1,false
+Walking,Puma,9,69.95,5,false
+Walking,Puma,10,69.95,8,false
+Walking,Puma,11,69.95,12,false
+Hiking,Columbia,8,95.45,3,9
+Hiking,Columbia,10,95.45,5,9
+Hiking,Columbia,11,95.45,2,9
+Hiking,Merril,10,95.45,3,10
+Hiking,Merril,11,95.45,5,10
+Running,Asics,10,109.45,3,4.5
+Running,Asics,11,109.45,6,4.5
+Running,New Balance,7,89.95,2,5.5
+Running,New Balance,7,89.95,2,5.5
+Running,New Balance,8,89.95,4,5.5
+Running,New Balance,9,89.95,6,5.5
+Running,New Balance,10,89.95,9,5.5
+Running,New Balance,11,89.95,7,5.5
+Running,Saucony,8,89.95,3,4.4
+Running,Saucony,9,89.95,4,4.4
+Running,Saucony,10,89.95,1,4.4
+Running,Skechers,9,69.95,2,5.8
+Running,Skechers,10,69.95,4,5.8
+Running,Skechers,11,69.95,7,5.8

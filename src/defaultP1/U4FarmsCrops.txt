@@ -1,0 +1,4 @@
+corn,20,corn,30,peas,10
+peas,30,corn,40,corn,62
+wheat,10,corn,50,rice,30
+corn,55,corn,30,peas,30
